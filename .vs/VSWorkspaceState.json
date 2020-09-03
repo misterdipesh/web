@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\myweb",
+    "\\myweb\\public",
+    "\\myweb\\src",
+    "\\myweb\\src\\components",
+    "\\myweb\\src\\components\\title-message",
+    "\\myweb\\src\\pages",
+    "\\myweb\\src\\themes"
+  ],
+  "SelectedNode": "\\myweb\\src\\components\\title-message\\title-message.component.jsx",
+  "PreviewInSolutionExplorer": false
+}

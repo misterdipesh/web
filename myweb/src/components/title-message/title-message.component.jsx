@@ -7,11 +7,11 @@ const MyTitleMessage = styled.h1`
   width: 100%;
   top: 22rem;
   z-index: 1;
-  margin-top: -125em;
+  margin-top: -125px;
   text-align: center;
 
   strong {
-    font-size: 1.25em;
+    font-size: 0.75em;//1.25
   }
   div {
     color: ${props => props.theme.textColor};
@@ -25,7 +25,7 @@ const MyTitleMessage = styled.h1`
     }
 
     .sub {
-      font-size: 27px;
+      font-size: 20px;//27
       letter-spacing: 2px;
     }
   }
